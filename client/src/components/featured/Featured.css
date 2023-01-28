@@ -1,0 +1,45 @@
+.featured{
+    margin-top: 50px;
+    width: 100%;
+    max-width: 1024px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    z-index: 1;
+  
+    
+
+}
+.featuredImg{
+    width: 100%;
+    object-fit: cover;
+    height: 250px;
+   
+   
+    
+    
+
+}
+.featuredItem{
+    position:relative;
+    color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    flex: 1;
+    border: 2px solid black;
+
+
+
+}
+.featuredItem:hover{
+    transform: scale(1.04);
+}
+.featureTitles{
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+   
+
+    
+
+}

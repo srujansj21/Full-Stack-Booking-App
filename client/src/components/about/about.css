@@ -1,0 +1,16 @@
+.ft{
+    margin-left: 180px;
+}
+.terms{
+    height: 100%;
+    width: 100%;
+   
+    background-image: url("https://img.freepik.com/free-photo/pink-sofa-white-living-room-with-copy-space_43614-798.jpg?w=2000");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.logo5{
+    border: 3px dotted black;
+    
+}

@@ -1,0 +1,42 @@
+.ft{
+    margin-left: 10px;
+}
+.terms1{
+    height: 80vh;
+    width: 100%;
+    background-image: url("https://img.freepik.com/free-photo/pink-sofa-white-living-room-with-copy-space_43614-798.jpg?w=2000");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+   
+}
+.logo6{
+    height: 60%;
+    width: 25%;
+  margin-left: 20px;
+  margin-right: 20px;
+  border: 3px dotted rgb(0, 0, 0);
+  border-radius: 80px;
+}
+.mailTitle{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+  
+  
+}
+.mail3{
+   
+   margin-right: 30px;
+   margin-left: 50px;
+   border: 2px solid black;
+   margin-bottom: 0px;
+   height: 350px;
+   width: 30%;
+   border-radius: 10px;
+  
+  
+}
+.sru{
+    margin-top: 50px;
+}
